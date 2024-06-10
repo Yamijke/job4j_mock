@@ -1,5 +1,6 @@
 # CheckDev Project Description
 
+
 CheckDev is an innovative platform designed for mock interviews between programmers. This platform allows users to improve their knowledge and skills through interactive interviews on selected topics.
 
 ## Key Features
